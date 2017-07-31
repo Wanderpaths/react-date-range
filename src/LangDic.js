@@ -124,7 +124,7 @@ export default {
     'th':'목',
     'fr':'금',
     'sa':'토'
-  }
+  },
   'es' : { // Spanish
     'january':'Enero',
     'february':'Febrero',
@@ -188,4 +188,25 @@ export default {
     'fr':'Cu',
     'sa':'Cts'
   },
+  'pt' : { // Portiguese
+    'january':'Janeiro',
+    'february':'Fevereiro',
+    'march':'Março',
+    'april':'Abril',
+    'may':'Maio',
+    'june':'Junho',
+    'july':'Julho',
+    'august':'Agosto',
+    'september':'Setembro',
+    'october':'Outubro',
+    'november':'Novembro',
+    'december':'Dezembro',
+    'su':'Dom',
+    'mo':'Seg',
+    'tu':'Ter',
+    'we':'Qua',
+    'th':'Qui',
+    'fr':'Sex',
+    'sa':'Sáb'
+  }
 }
